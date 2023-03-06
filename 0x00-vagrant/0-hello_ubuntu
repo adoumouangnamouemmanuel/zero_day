@@ -1,0 +1,1 @@
+The uname command, when executed without any option, will print the name of the operating system that the system is running on. Specifically, it will print the name of the current kernel, which is the core component of the operating system that provides essential services to other programs and manages system resources.
